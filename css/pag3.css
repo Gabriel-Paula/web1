@@ -1,0 +1,28 @@
+#imgpos {
+	position: absolute; 
+    margin: 20;
+    padding: 100;
+	
+}
+#rodapé {
+     position:relative ; 
+     margin: 92323;
+     padding: 1300;
+}
+#fundo {
+    position:center; 
+    
+}
+#vídeo{ 
+    position: relative;
+
+
+}
+#anuncio1 {
+    position: static; 
+    
+} 
+#anuncio2 {
+    position: static; 
+   
+} 
