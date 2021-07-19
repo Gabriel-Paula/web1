@@ -1,0 +1,10 @@
+#imgpos {
+	position: absolute; 
+	left: 110px; /* posiciona a 90px para a esquerda */ 
+	top: 100px; /* posiciona a 70px para baixo */
+	}
+    #cabeçalho {
+        position: ce; 
+        left: 0px; /* posiciona a 90px para a esquerda */ 
+        top: 70px; /* posiciona a 70px para baixo */
+        }
