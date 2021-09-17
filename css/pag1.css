@@ -1,25 +1,23 @@
 #imgpos {
 	position: absolute; 
-    margin: 20px;
-    padding: 10% 1000%;
+    margin: 10;
 	
 	}
 #rodapé {
      position:relative ; 
-     margin: 92323;
-     padding: 1300;
+     margin: 10;
     }
  #fundo {
     position:center; 
-    
+    margin: 10;
 }
 #pok {
-    position: static; 
+    position: left center ; 
     
     }
 #maisp {
     position: static; 
-    
+    margin-top: 20cm;
 }
 #naruto {
     position: static; 
