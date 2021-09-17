@@ -1,12 +1,15 @@
 #rodapé2{
-    position:absolute
-
-
+    display: flex;
+    border: 0.5rem solid gray ;
+    align-items: center;
 }
+
+
 #fundo {
     position:center; 
-    
+    margin: -15cm;
 }
+
 #vídeo{ 
     position: relative;
 
